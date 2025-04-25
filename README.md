@@ -70,7 +70,6 @@ pyinstaller --onefile --noconsole equalizer_ui.py
 ### 📁 注意点
 - config.txt のパス（通常）：
     C:\Program Files\EqualizerAPO\config\config.txt
-
 - 書き換えには 管理者権限が必要な場合があります
 
 ---
